@@ -1,6 +1,7 @@
 
+
 <h1 align="center">Hi 👋, I'm Sharmaine</h1>
-<h3 align="center">A passionate frontend developer based in Vienna.</h3>
+<h3 align="center">An enthusiastic frontend developer based in Vienna with a keen interest in UI/UX design.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
