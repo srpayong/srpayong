@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
-🔭 I’m currently working on [Across the Atlas](https://github.com/srpf15/across-the-atlas)
+🔭 I’m currently working on [Across the Atlas](https://github.com/srpayong/across-the-atlas-proj)
 
 🌱 I’m actively engaged with **React Native, GraphQL, TypeScript, Next.js, Node.js, PostgreSQL, and a diverse set of technologies. I'm consistently expanding my knowledge and embracing new technologies to enrich and elevate my tech stack.**
 
