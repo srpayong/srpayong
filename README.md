@@ -7,13 +7,12 @@
 
 🔭 I’m currently working on [Across the Atlas](https://github.com/srpayong/across-the-atlas-proj)
 
-🌱 I’m actively engaged with **React Native, GraphQL, TypeScript, Next.js, Node.js, PostgreSQL, and a diverse set of technologies. I'm consistently expanding my knowledge and embracing new technologies to enrich and elevate my tech stack.**
+🌱 I’m actively engaged with **React, GraphQL, TypeScript, JavaScript, Next.js, Node.js, PostgreSQL, and a diverse set of technologies. I'm consistently expanding my knowledge and embracing new technologies to enrich and elevate my tech stack.**
 
 📫 How to reach me **sharmainerpayong@gmail.com**
 
 👨‍💻 **Dedicated to UI/UX design and frontend development, I bring a passion for crafting seamless and visually captivating user experiences.**
 
-⚡ In my free time, I unwind with laid-back hikes and enjoy the simple pleasures of cooking and baking in the kitchen.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
