@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/srpayong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srpayong" height="30" width="40" /></a>
 
-  https://miro.medium.com/v2/resize:fit:720/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif
+<a href="https://miro.medium.com/v2/resize:fit:720/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif"> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
