@@ -3,7 +3,10 @@
 <h1 align="center">Hi 👋, I'm Sharmaine</h1>
 <h3 align="center">An enthusiastic frontend developer based in Vienna with a keen interest in UI/UX design.</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+
+
+<img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RoYzA0aGFveWhiNjMybGE0a2d4ejgwYXh5NWVuZjY2dnA3NDdnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5vCZ5J3EJBQ7IkvO9/giphy.gif" background="none">
+
 
 🔭 I’m currently working on [Across the Atlas](https://github.com/srpayong/across-the-atlas-proj)
 
@@ -18,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/srpayong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srpayong" height="30" width="40" /></a>
 
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif" /> 
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
