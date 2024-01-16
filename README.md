@@ -7,14 +7,15 @@
 
 <img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RoYzA0aGFveWhiNjMybGE0a2d4ejgwYXh5NWVuZjY2dnA3NDdnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5vCZ5J3EJBQ7IkvO9/giphy.gif" background="none">
 
+###
 
-🔭 I’m currently working on [Across the Atlas](https://github.com/srpayong/across-the-atlas-proj)
+👨‍💻 **Passionate about UI/UX design and frontend development, I strive to create user experiences that blend functionality and visual appeal effortlessly**
 
-🌱 I’m actively engaged with **React, GraphQL, TypeScript, JavaScript, Next.js, Node.js, PostgreSQL, and a diverse set of technologies. I'm consistently expanding my knowledge and embracing new technologies to enrich and elevate my tech stack.**
+🌱 I’m actively engaged with **React, React Native, GraphQL, TypeScript, JavaScript, Next.js, Node.js, PostgreSQL, and a diverse set of technologies. I'm consistently expanding my knowledge and embracing new technologies to enrich and elevate my tech stack.**
 
 📫 How to reach me **sharmainerpayong@gmail.com**
 
-👨‍💻 **Dedicated to UI/UX design and frontend development, I bring a passion for crafting seamless and visually captivating user experiences.**
+
 
 
 <h3 align="left">Connect with me:</h3>
